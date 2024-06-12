@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmanolo" alt="josmanolo" /></a> </p>
 
-- 🔭 I’m currently working on **Cornershop**
+- 🔭 I’m currently working on **Mercado Libre**
 
 - 🌱 I’m currently learning **Redux, NodeJS, TypeScript**
 
