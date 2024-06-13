@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Mercado Libre**
 
-- 🌱 I’m currently learning **Redux, NodeJS, TypeScript**
+- 🌱 I’m currently learning **Express, Go, AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sheepdi](https://www.behance.net/sheepdi)
 
-- 💬 Ask me about **React, Javascript, CSS**
+- 💬 Ask me about **React, Javascript, CSS, Redux, TypeScript**
 
 - 📫 How to reach me **jomalolep@gmail.com**
 
